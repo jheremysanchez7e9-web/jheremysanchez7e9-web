@@ -47,4 +47,4 @@ Passionate about **Defensive Cybersecurity**, Linux servers, and network infrast
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jheremysanchez-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jheremysanchez/)
-[![Email](https://img.shields.io/badge/Email-jheremysebastian17%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:jheremysebastian17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jheremysebastian17%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:jheremy.sanchez.7e9@itb.cat)
