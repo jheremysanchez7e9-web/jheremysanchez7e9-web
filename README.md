@@ -1,32 +1,26 @@
-# 🛡️ Jheremy Sánchez | SysAdmin & Cybersecurity
+# Jheremy Sánchez | Systems & Network Administration Student 
 
-Student of **Systems & Network Administration (ASIX/ASIR)** at *Institut Tecnològic de Barcelona*.  
-Passionate about **Defensive Cybersecurity**, Linux servers, and network infrastructure management.
+Hi! I'm an ASIR/ASIX student at *Institut Tecnològic de Barcelona* specializing in **Defensive Cybersecurity** and **System Administration**.
 
----
 
 ### 🚀 About Me
-* 🎓 **Current Studies:** 1st Year ASIR / ASIX at ITB.
-* 🛡️ **Focus Area:** Network Hardening, Defensive Security & SysAdmin Operations.
-* 💻 **Working Environment:** Virtualization with VirtualBox, Debian Linux & Windows Server environments.
-* 🎯 **Goal:** Designing secure, resilient, and automated network infrastructures.
+- 🔭 **Studying:** Systems & Network Administration, with an emphasis on cybersecurity protocols and infrastructure management.
+- 💻 **Tech Stack:** Linux (Debian) & Windows Server | TCP/IP, DNS & DHCP | Python Scripting | Virtualization (VirtualBox).
+- 🎯 **Goal:** Building a solid background in defensive security, network configuration, and sysadmin operations through hands-on lab environments.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech & Tools
 
-**Operating Systems & Virtualization**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+#### Operating Systems & Virtualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,virtualbox" alt="OS and Virtualization" />
+</p>
 
-**Networking, Admin & Tools**
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TCP/IP & DNS](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-00599C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### Networking, Scripting & Dev Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,vscode,github,git" alt="Tools and Scripting" />
+</p>
 
 ---
 
@@ -39,12 +33,11 @@ Passionate about **Defensive Cybersecurity**, Linux servers, and network infrast
 
 ---
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=jheremysanchez7e9-web&theme=tokyonight&hide_border=true)
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jheremysanchez7e9-web&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 ---
 
-### 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jheremysanchez-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jheremysanchez/)
-[![Email](https://img.shields.io/badge/Email-jheremy.sanchez.7e9%40itb.cat-D14836?style=for-the-badge&logo=gmail)](mailto:jheremy.sanchez.7e9@itb.cat)
+### 📫 Connect with me
+- **LinkedIn:** [jheremysanchez](https://www.linkedin.com/in/jheremysanchez/)
+- **Email:** sanchezjheremy17@gmail.com
