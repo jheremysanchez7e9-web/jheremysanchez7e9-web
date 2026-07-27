@@ -63,10 +63,10 @@
     <td align="center"><a href="https://jheremysanchez7e9-web.github.io/TA08_Calculadoraestalvienergetic/">Live Demo</a></td>
   </tr>
   <tr>
-    <td><strong>Infraestructura Debian</strong></td>
-    <td>Deployment and configuration of essential network services (DNS, Apache, DHCP) in a Linux Server environment.</td>
-    <td><code>Debian</code> <code>Bash</code> <code>Networking</code></td>
-    <td align="center"><em>Local Lab</em></td>
+    <td><strong>ProjecteTransversalASIXc_25-26</strong></td>
+    <td>Comprehensive cross-curricular project integrating systems administration, network services, and security implementation.</td>
+    <td><code>Linux</code> <code>Bash</code> <code>Networking</code></td>
+    <td align="center"><a href="https://github.com/jheremysanchez7e9-web/ProjecteTransversalASIXc_25-26">Repository</a></td>
   </tr>
 </table>
 
