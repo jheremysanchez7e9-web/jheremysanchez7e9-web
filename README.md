@@ -6,6 +6,7 @@
     <a href="https://www.linkedin.com/in/jheremysanchez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:jheremy.sanchez.7e9@itb.cat"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Location-Barcelona-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=jheremysebastian17&style=flat-square&color=5865F2&label=Profile+views" alt="Profile views" />
   </p>
 </div>
 
