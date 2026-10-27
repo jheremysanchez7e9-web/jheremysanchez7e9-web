@@ -55,7 +55,7 @@
     <th align="left">Project</th>
     <th align="left">Description</th>
     <th align="center">Stack</th>
-    <th align="center">Deployment</th>
+    <th align="center">Deployment / Source</th>
   </tr>
   <tr>
     <td><strong>Calculadora Energética</strong></td>
@@ -68,6 +68,18 @@
     <td>Comprehensive cross-curricular project integrating systems administration, network services, and security implementation.</td>
     <td><code>Linux</code> <code>Bash</code> <code>Networking</code></td>
     <td align="center"><a href="https://github.com/jheremysanchez7e9-web/ProjecteTransversalASIXc_25-26">Repository</a></td>
+  </tr>
+  <tr>
+    <td><strong>The Cryptic Club</strong></td>
+    <td>Project focused on cybersecurity concepts, cryptography, and vulnerability research.</td>
+    <td><code>Cybersecurity</code> <code>Python</code> <code>Web</code></td>
+    <td align="center"><a href="https://github.com/jheremysebastian17/TheCrypticClub">Repository</a></td>
+  </tr>
+  <tr>
+    <td><strong>The Daily Exploit</strong></td>
+    <td>Cybersecurity news, vulnerability analysis, and exploit tracking resource platform.</td>
+    <td><code>Cybersecurity</code> <code>Exploits</code> <code>Python</code></td>
+    <td align="center"><a href="https://github.com/jheremysebastian17/the-dailyexploit">Repository</a></td>
   </tr>
 </table>
 
