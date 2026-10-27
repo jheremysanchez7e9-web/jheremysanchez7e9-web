@@ -101,6 +101,12 @@
     </td>
   </tr>
   <tr>
+    <td><strong>🔐 The Cryptic Club</strong></td>
+    <td>Project focused on cybersecurity concepts, cryptography, and vulnerability research.</td>
+    <td><code>Cybersecurity</code> <code>Python</code> <code>Cryptography</code></td>
+    <td align="center"><a href="https://github.com/jheremysebastian17/TheCrypticClub">Repository</a></td>
+  </tr>
+  <tr>
     <td><strong>🛡️ The Daily Exploit</strong></td>
     <td>Defensive cybersecurity tool for cyber threat analysis, with monitoring and automated reporting of vulnerabilities.</td>
     <td><code>Python</code> <code>Linux</code> <code>Bash</code> <code>Git</code></td>
