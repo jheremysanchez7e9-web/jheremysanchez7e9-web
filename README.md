@@ -79,7 +79,7 @@
     <td><strong>The Daily Exploit</strong></td>
     <td>Cybersecurity news, vulnerability analysis, and exploit tracking resource platform.</td>
     <td><code>Cybersecurity</code> <code>Exploits</code> <code>Python</code></td>
-    <td align="center"><a href="https://github.com/jheremysebastian17/the-dailyexploit">Repository</a></td>
+    <td align="center"><a href="https://github.com/jheremysebastian17/the-daily-exploit">Repository</a></td>
   </tr>
 </table>
 
